@@ -1,0 +1,13 @@
+name: Eduvos-IT-Graduates-Dashboard
+title: Eduvos-IT-Graduates-Dashboard
+username: sheilalangton
+account: sheilalangton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14250125
+bundleId: 9945907
+url: https://sheilalangton.shinyapps.io/Eduvos-IT-Graduates-Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .github/workflows/r.yml|Eduvos-IT-Graduates-Dashboard-SHEILA LANGTON(FINAL) - Copy.R

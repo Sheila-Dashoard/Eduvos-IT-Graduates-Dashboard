@@ -11,7 +11,7 @@ library(plotly)
 library(bslib)
 library(ggthemes)
 # Load data
-graduate_data <- readRDS("C:/Users/sheil/Desktop/ITRDA ASSIGMENT/graduate_data.rds")
+graduate_data <- readRDS("graduate_data.rds")
 
 
 # UI
